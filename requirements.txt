@@ -11,4 +11,4 @@ psutil
 pandas
 einops
 imagecodecs
-opencv-python
+opencv-python-headless
